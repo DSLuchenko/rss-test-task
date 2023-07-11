@@ -1,0 +1,4 @@
+.idea
+target
+parser_*.log
+output.txt
